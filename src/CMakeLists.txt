@@ -1,6 +1,6 @@
 # This is the main binary. List your C files here.
 add_executable(act
-        activity0.c
+        activity1.c
     )
 
 pico_set_program_name(act "test")
